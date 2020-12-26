@@ -1,0 +1,55 @@
+form#stripePro {
+    padding: 60px 0 !important;
+}
+
+form#stripePro .col.span_6, button {
+    margin-top: 15px !important;
+    margin-bottom: 15px !important;
+}
+
+form#stripePro div#card-number-element, form#stripePro div#card-expiry-element, form#stripePro div#card-cvc-element {
+    border: 2px solid #e2e2e2;
+    padding: 15px;
+    background-color: #fff;
+}
+
+div.show_on_yes, div.show_on_yes_another{
+	display: none;
+}
+label.error{
+	color: #af2929;
+	display: table-cell;
+}
+form#form_pro_front label {
+    margin-top: 20px;
+    margin-bottom: 6px;
+    font-family: 'Open Sans';
+    font-weight: 700;
+    font-size: 14px;
+}
+
+form#form_pro_front  input.required {
+    padding: 20px 10px !important;
+}
+
+form#form_pro_front input[type=text], textarea, input[type=email], input[type=password], input[type=tel], input[type=url], input[type=search], input[type=date], .material.woocommerce-page[data-form-style="default"] input#coupon_code {
+        font-size: inherit !important;
+    font-family: inherit !important;
+    padding: 5px 4px !important;
+    letter-spacing: normal !important;
+}
+
+form#form_pro_front span.select2.select2-container.select2-container--default.select2-container--focus {
+    width: 100% !important;
+}
+form#form_pro_front span.select2.select2-container.select2-container--default.select2-container--below.select2-container--open {
+    width: 100% !important;
+}
+form#form_pro_front span.select2.select2-container.select2-container--default.select2-container--below{
+     width: 100% !important;
+}
+form#form_pro_front span.select2.select2-container.select2-container--default{
+    width: 100% !important;
+}
+
+
